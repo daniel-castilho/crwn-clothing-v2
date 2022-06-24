@@ -42,7 +42,7 @@
   }
 
   .category-body-container {
-    height: 90px;
+    height: 100px;
     padding: 0 25px;
     display: flex;
     flex-direction: column;
@@ -55,14 +55,14 @@
 
     h2 {
       font-weight: bold;
-      margin: 0 6px 0;
-      font-size: 22px;
+      margin: 0 0px 0;
+      font-size: 24px;
       color: #4a4a4a;
     }
 
     p {
       font-weight: lighter;
-      font-size: 16px;
+      font-size: 18px;
     }
   }
 }
